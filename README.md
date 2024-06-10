@@ -17,12 +17,7 @@ This project focuses on analyzing Airbnb accommodation prices in the city of Rio
 - Pandas
 - Matplotlib
 - Seaborn
-
-## Usage
-
-Unfortunately, GitHub does not directly render interactive notebooks on its website. However, you can still make have the interactive notebook available. You only need to download and run locally. :)
-
-Click here to open the interactive notebook -> https://drive.google.com/file/d/1t8oHbJSG8ktkOVWG_4w62qpVRQJhEbuW/view?usp=sharing
+- Folium
 
 ## Results
 
